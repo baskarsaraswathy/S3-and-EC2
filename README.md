@@ -1,4 +1,8 @@
 # CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
+
+## REG NO : 212223040025
+## NAME : BASKAR J
+
 ## Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2
 instance in AWS.
